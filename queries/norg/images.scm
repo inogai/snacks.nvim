@@ -4,6 +4,6 @@
 ) @image
 
 (inline_math
-  (#set! image.lang "latex")
-  (#set! image.ext "math.tex")
+  (#set! image.lang "typst")
+  (#set! image.ext "math.typ")
 ) @image.content @image
